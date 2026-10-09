@@ -10,16 +10,22 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.47h | 1 |
+| Week 1 | Tier 1 | 0.5h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – ![Screenshot 371](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/75491fead2aa8fc177b2c291692c944477c764ac2de9e387a1b768d8f33e43d0.png)](#2026-10-08-screenshot-371httpshalflifehackclub-assetscomhack)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – ![Screenshot 371](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/75491fead2aa8fc177b2c291692c944477c764ac2de9e387a1b768d8f33e43d0.png)
 
-**0.47h**
+**0.5h**
+
+![Screenshot 371](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/75491fead2aa8fc177b2c291692c944477c764ac2de9e387a1b768d8f33e43d0.png)
+
+![Screenshot 372](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/00444835f470e65d6a030042b1391a7472f5d0806f6292c4e7923207c0052b7c.png)
+
+I was tired, so I didn't do much work. However, behind the scenes, I was searching for and understanding these new concepts. I learnt so much, so I have an Idea to add a buzzer and LEDs with the use of DHT11 to represent the temperature of the room as LED lights (eg, red for warm, blue for cold). And that will affect the Tamagotchi pet. Also, the buzzer will make the pet's sound. I think it will be more better than the regular idea
 
 [Timelapse](https://lookout.hackclub.com/api/media/880bc3fe-1849-4575-89fe-1fe52d81de56/video.mp4)
