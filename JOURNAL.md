@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.97h | 2 |
+| Week 1 | Tier 1 | 1h | 2 |
 
 ## Contents
 
 1. [2026-10-08 – ![Screenshot 371](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/75491fead2aa8fc177b2c291692c944477c764ac2de9e387a1b768d8f33e43d0.png)](#2026-10-08-screenshot-371httpshalflifehackclub-assetscomhack)
-2. [2026-10-10 – Work session](#2026-10-10-work-session)
+2. [2026-10-10 – I have so much to study. I am very busy, and I don't think I am going to finish this week, but I will continue working anyway.](#2026-10-10-i-have-so-much-to-study-i-am-very-busy-and-i-dont)
 
 ## Design
 
@@ -31,8 +31,10 @@ I was tired, so I didn't do much work. However, behind the scenes, I was searchi
 
 [Timelapse](https://lookout.hackclub.com/api/media/880bc3fe-1849-4575-89fe-1fe52d81de56/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I have so much to study. I am very busy, and I don't think I am going to finish this week, but I will continue working anyway.
 
-**0.47h**
+**0.5h**
+
+I have so much to study. I am very busy, and I don't think I am going to finish this week, but I will continue working anyway.
 
 [Timelapse](https://lookout.hackclub.com/api/media/fd80e293-ad92-4ede-b94c-9e7da793b0f9/video.mp4)
