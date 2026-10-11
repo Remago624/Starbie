@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.62h | 3 |
+| Week 1 | Tier 1 | 2.62h | 3 |
 
 ## Contents
 
 1. [2026-10-08 – ![Screenshot 371](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/75491fead2aa8fc177b2c291692c944477c764ac2de9e387a1b768d8f33e43d0.png)](#2026-10-08-screenshot-371httpshalflifehackclub-assetscomhack)
 2. [2026-10-10 – I have so much to study. I am very busy, and I don't think I am going to finish this week, but I will continue working anyway.](#2026-10-10-i-have-so-much-to-study-i-am-very-busy-and-i-dont)
-3. [2026-10-10 – Work session](#2026-10-10-work-session)
+3. [2026-10-10 – I made a filled zone with GND to eliminate the need to connect all GND together. Some IDE and coding. I understood the idea, and tomorrow I will start editing the code and making my own sprite  and th](#2026-10-10-i-made-a-filled-zone-with-gnd-to-eliminate-the-ne)
 
 ## Design
 
@@ -40,8 +40,12 @@ I have so much to study. I am very busy, and I don't think I am going to finish 
 
 [Timelapse](https://lookout.hackclub.com/api/media/fd80e293-ad92-4ede-b94c-9e7da793b0f9/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I made a filled zone with GND to eliminate the need to connect all GND together. Some IDE and coding. I understood the idea, and tomorrow I will start editing the code and making my own sprite  and th
 
-**0.62h**
+**1.62h**
+
+I made a filled zone with GND to eliminate the need to connect all GND together. Some IDE and coding. I understood the idea, and tomorrow I will start editing the code and making my own sprite  and the ideas I want to implement. If I had the time, maybe I can finish the 8 hours left for this week, but I don't think I can do it.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/JULvQHrcNvOR42J6ZFwtkRy1TbsiOPle/bb6668858edd0eff6474c437814b80865242d2963e66227545c5c1e23029bed8.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/72099368-31cb-4c51-89ef-1beaf433be11/video.mp4)
